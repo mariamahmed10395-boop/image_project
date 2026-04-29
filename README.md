@@ -1,4 +1,3 @@
-# image_project
 # 🌟 Image Processing Toolbox & GUI Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -62,4 +61,4 @@ The project is heavily refactored to separate the User Interface from the core m
 
 Software Engineer | Machine Learning & Computer Vision Developer
 
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](#) | [GitHub](https://github.com/mariamahmed10395-boop)
