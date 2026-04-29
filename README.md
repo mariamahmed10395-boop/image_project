@@ -61,4 +61,4 @@ The project is heavily refactored to separate the User Interface from the core m
 
 Software Engineer | Machine Learning & Computer Vision Developer
 
-[LinkedIn](#) | [GitHub](https://github.com/mariamahmed10395-boop)
+[LinkedIn](www.linkedin.com/in/mariam-ahmed-ai) | [GitHub](https://github.com/mariamahmed10395-boop)
